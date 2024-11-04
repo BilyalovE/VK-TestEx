@@ -1,0 +1,53 @@
+
+# Xcode
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad
+*.xcodeproj/xcuserdata/*.xcuserdatad
+
+# Build products
+build/
+*.o
+*.d
+*.app
+*.exe
+*.out
+*.a
+*.dylib
+*.so
+*.dSYM
+*.ipa
+*.xctest
+*.framework
+
+# Temporary files
+*.swp
+*.swo
+*.lock
+*.tmp
+
+# C++ specific files
+*.hpp
+*.h
+*.cpp
+*.cxx
+*.c
+*.m
+*.mm
+*.pch
+*.h++
+*.tpp
+
+# IDE specific files
+*.idea
+*.sublime-project
+*.sublime-workspace
+
+# User-specific files
+*.user
+*.userprefs
+*.prefs
+*.DS_Store
+*.DS_Store?
+*~
